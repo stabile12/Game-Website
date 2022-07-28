@@ -1,0 +1,34 @@
+body {
+    background: rgb(186, 251, 100);
+}
+
+.container {
+    text-align: center;
+}
+
+.container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.titulo {
+    font-size: 50px;
+}
+
+.espaco {
+    height: 80px;
+    width: 80px;
+    font-size: 40px;
+}
+
+.input {
+    background-color: rgba(0, 0, 0, 0.126);
+    height: 30px;
+    font-size: large;
+    text-align: center;
+
+}
+.chances {
+    font-size: 40px;
+}

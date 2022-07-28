@@ -1,0 +1,33 @@
+body {
+    background: rgb(219, 220, 219);
+}
+
+#campo {
+    display: flex;
+    flex-direction: column;
+    
+    align-items: center;
+    margin: auto;
+    width: 50px;
+    height: 100px;
+    
+}
+
+#casa1, #casa2, #casa3, #casa4, #casa5, #casa6, #casa7, #casa8, #casa9 {
+    width: 100px;
+    height: 100px;
+    font-size: 80px;
+}
+.res {
+    position: relative;
+    top: 300px;
+    font-size: 50px;
+}
+
+.resultado {
+    text-align: center;
+}
+
+h1 {
+    text-align: center;
+}
